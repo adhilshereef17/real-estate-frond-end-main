@@ -1,0 +1,1 @@
+export const serverURL='https://real-estate-backend-uxhu.onrender.com'
